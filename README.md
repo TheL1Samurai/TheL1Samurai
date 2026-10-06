@@ -25,12 +25,12 @@ I love talking about:
 
 
 ## Stats
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiscsamchris1212%2Fhit-counter">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheL1Samurai1212%2Fhit-counter">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miscsamchris&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheL1Samurai&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miscsamchris&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheL1Samurai&theme=dark" />
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=miscsamchris&show_icons=true&theme=dark)](https://github.com/miscsamchris/github-readme-stats)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheL1Samurai&show_icons=true&theme=dark)](https://github.com/TheL1Samurai/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miscsamchris&theme=onedark)](https://github.com/miscsamchris/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheL1Samurai&theme=onedark)](https://github.com/TheL1Samurai/github-profile-trophy)
